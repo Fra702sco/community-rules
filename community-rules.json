@@ -1,26 +1,16 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "lastUpdated": "2026-03-19T13:19:00.074Z",
+    "lastUpdated": "2026-03-19T00:00:00Z",
     "description": "Community-shared ad blocking rules for Stream Ad Blocker",
-    "contributors": 4,
-    "totalRules": 6
+    "contributors": 0,
+    "totalRules": 0
   },
   "twitch": {
-    "selectors": [
-      ".ad-banner-test",
-      ".sponsored-content-test",
-      ".legit-selector"
-    ],
-    "markers": [
-      "Commercial Break"
-    ],
-    "gqlBlocks": [
-      "AdAnalytics"
-    ],
-    "blockedUrls": [
-      "ads.example.com"
-    ]
+    "selectors": [],
+    "markers": [],
+    "gqlBlocks": [],
+    "blockedUrls": []
   },
   "youtube": {
     "selectors": [],
