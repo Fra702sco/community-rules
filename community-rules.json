@@ -1,10 +1,10 @@
 {
   "_meta": {
     "version": "1.0.0",
-    "lastUpdated": "2026-03-19T20:30:35.716Z",
+    "lastUpdated": "2026-03-19T22:08:33.317Z",
     "description": "Community-shared ad blocking rules for Stream Ad Blocker",
-    "contributors": 4,
-    "totalRules": 21
+    "contributors": 5,
+    "totalRules": 22
   },
   "twitch": {
     "selectors": [
@@ -27,6 +27,7 @@
     "markers": [
       "Annuncio",
       "interruzione pubblicitaria",
+      "pubblicitÃÂÃÂÃÂÃÂ ",
       "pubblicitÃÂÃÂ ",
       "pubblicitÃÂ ",
       "pubblicitÃ ",
